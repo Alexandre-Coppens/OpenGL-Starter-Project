@@ -19,4 +19,18 @@
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="vertex.vert">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="fragment.frag">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="BasicVertex.vert">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="BasicFragment.frag">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
 </Project>

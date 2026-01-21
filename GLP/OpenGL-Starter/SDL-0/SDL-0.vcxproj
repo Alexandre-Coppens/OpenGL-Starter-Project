@@ -84,6 +84,12 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="BasicFragment.frag" />
+    <None Include="fragment.frag" />
+    <None Include="vertex.vert" />
+    <None Include="BasicVertex.vert" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
